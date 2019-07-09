@@ -1,0 +1,19 @@
+{
+  "name": "spo-test-site",
+  "version": "1.0.0",
+  "description": "Example site for static page object testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/accept-li/spo-test-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/accept-li/spo-test-site/issues"
+  },
+  "homepage": "https://github.com/accept-li/spo-test-site#readme"
+}
